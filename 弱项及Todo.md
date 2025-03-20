@@ -1,11 +1,5 @@
 ## Todo
 
-- [ ] Chapter 2 错题复习
-- [ ] Chapter 2 剩下习题写完
-- [ ] Chapter 2 参考文献阅读
-- [ ] Chapter 3 错题复习
-- [ ] Chapter 3 剩下习题做完
-- [ ] Chapter 3 参考文献阅读
 - C 语言编译器 + JVM 虚拟机实现
 - 链接器实现
 - 调试器
